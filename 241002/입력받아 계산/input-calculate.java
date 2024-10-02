@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
        
@@ -7,7 +9,7 @@ public class Main {
         int a;
 
         //입력 
-        a = sc.nextInt;
+        a = sc.nextInt();
 
         //출력
         System.out.println(a + 2);
